@@ -1,0 +1,14 @@
+{
+  "name": "camera-bot",
+  "version": "1.0.0",
+  "description": "Telegram Camera Bot with Education Site",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.12.2",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+  }
+}
